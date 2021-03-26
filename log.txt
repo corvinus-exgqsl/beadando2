@@ -1,0 +1,3 @@
+[2021-03-26 23:18:34] Ezt szeretném tárolni!
+[2021-03-26 23:18:48] Számokat is szeretnék tárolni: 1234567890 .
+[2021-03-26 23:19:04] Szimbólumokat is szeretnék tárolni: &™£$‹›{[] .
